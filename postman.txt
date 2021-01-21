@@ -1,0 +1,5 @@
+https://pokeapi.co/api/v2/pokemon/pikachu
+https://pokeapi.co/api/v2/pokemon/6
+https://pokeapi.co/api/v2/pokemon/mudkip
+https://pokeapi.co/api/v2/pokemon/151
+https://pokeapi.co/api/v2/pokemon/zigzagoon
